@@ -1,7 +1,7 @@
 package com.example.clankr;
 
 public abstract class Shape {
-    String colour = "turquoise";
+    String colour = "Red";
     int x;
     int y;
 }
