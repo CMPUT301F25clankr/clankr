@@ -1,3 +1,2 @@
 CCIDs:
-gmmcivor
 anosovmo
